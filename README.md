@@ -1,3 +1,5 @@
+A random hono exercise
+
 ```
-deno run --allow-net hello.ts
+deno run --allow-net main.ts
 ```
